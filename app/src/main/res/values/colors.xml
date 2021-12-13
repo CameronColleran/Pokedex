@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#7E889A</color>
+    <color name="colorPrimaryDark">#2D4153</color>
+    <color name="colorAccent">#cc1818</color>
+
+    <color name="yellow">#fffffba1</color>
+    <color name="aqua">#B3CAB5</color>
+    <color name="cream">#c2d5da</color>
+    <color name="dark_aqua">#9fb3a0</color>
+
+    <color name="peach">#FFEEB0</color>
+    <color name="peach_orange">#FCC499</color>
+    <color name="very_light_tangelo">#FAAA6D</color>
+    <color name="chinese_orange">#F2684A</color>
+    <color name="verdigris">#419EAE</color>
+
+    <color name="light_red">#fa5c5c</color>
+    <color name="deep_red">#cc1818</color>
+
+</resources>

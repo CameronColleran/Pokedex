@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pokedex</string>
+
+    <string name="add">Add Pokemon</string>
+    <string name="name">Enter name of the Pokemon</string>
+    <string name="delete">Clear all Pokemon</string>
+    <string name="desc">Description</string>
+    <string name="description">Enter Pokemon description</string>
+
+</resources>
